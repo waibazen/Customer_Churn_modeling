@@ -6,7 +6,7 @@ Goal of this project: understand the key drivers of churn happening within the c
 
 2. Engineered and analysed dataset feature columns and applied transformation to categorical fields
 
-3. Used different Sampling techniques to optimize model like:oversampling and SMOTE
+3. Used different Sampling techniques to optimize model like:-oversampling and SMOTE
 
 4 .Optimized Logistic and Random Forest Regressors  to reach the best model.
 
